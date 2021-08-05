@@ -51,7 +51,7 @@ utils.awaitEmojis(message, embed, emojis, 50000, true);
 * [FFMPEG-static](https://npmjs.com/package/ffmpeg-static)
 
 ## 📂 | Examples
-All examples are found in [examples.js](https://github.com/iceyym8/discord.js-utilitys/blob/main/examples.js
+All examples are found in [examples.js](https://github.com/iceyym8/discord.js-utilitys/blob/main/examples.js)
 
 ## 📫 | Contact 
 * [Discord](https://discord.gg/37a6wEh8t7)
